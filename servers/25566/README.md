@@ -1,13 +1,15 @@
-### 空岛
+## 指令
+
+#### 空岛指令
 - /is help
 
 ### 传送
 - tpa 玩家名
 
-### 粘液科技
+#### 获取粘液科技书
 - /sf guide
 
-### 粘液科技附属拓展
+## 粘液科技附属拓展
 |拓展名|
 |----|
 |[下界乌托邦](https://docs.sefiraat.dev/netheopoiesis/purification)|
