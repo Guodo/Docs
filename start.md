@@ -11,6 +11,8 @@
 
 !> 如果你要用Java版客户端进入Java版服务器，需要前往[littleskin](https://littleskin.cn)注册并创建角色，然后在群内绑定你创建的角色名
 
+!> 基岩版进Java服`无需注册`littleskin
+
 !> 如果你使用基岩版账号绑定Java版服务器，请把名字中的空格替换为英文下划线`_`，基岩版进入Java版服务器按照Java版的方式绑定账号
 
 3. 前往[服务器状态](servers/motd)页面查看地址和端口
