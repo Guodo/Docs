@@ -3,8 +3,8 @@
 
 #### [BE娱乐服](servers/19132/)
 > [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden] 菜单内含跨服传送，可跳转至其他子服务器，服内有一些娱乐小游戏
-##### 现有小游戏
-> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden] 
+
+> [!TIP|style:flat||label:现有小游戏|iconVisibility:hidden] 
 > 起床战争  
 > 空岛战争  
 > 烫手山芋  
