@@ -1,7 +1,7 @@
 - [首页](README.md)
 - [公告](notice/)
 - [开始](start)
-- [服务器](servers/)
+- [服务器简介](servers/)
   - [服务器状态](servers/motd)
   - [服务器黑名单](servers/banlist)
   - [服务器记过名单](servers/marklist)
