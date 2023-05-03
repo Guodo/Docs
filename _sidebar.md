@@ -13,4 +13,6 @@
   - [JE空岛互通服](servers/25566/)
 - [常见问题](FAQ)
 - [关于](About)
-  - [捐赠名单](donate)
+  - [文档编写](About?id=文档编写)
+  - [恰饭](About?id=恰饭)
+  - [捐赠名单](About?id=捐赠名单)
