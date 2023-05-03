@@ -1,5 +1,3 @@
-### 原版插件生存
-
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 可传送  
 > 有经济系统和商店  
