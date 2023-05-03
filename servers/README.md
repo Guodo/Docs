@@ -18,26 +18,28 @@
 > 无传送  
 > 无OP及任何特殊权限玩家
 
-#### [BE空岛服](servers/54056/)
-> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden] 
-> 死亡不掉落  
-> 有经济系统和商店  
-> 可传送  
-
 #### [BE插件生存服](servers/19134/)
 > [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden]
 > 可传送  
 > 有经济系统和商店  
 > 商店内购买头颅可抵消死亡掉落物品  
 
-#### [JE原版生存服(二周目)](servers/25565/)
+#### [BE空岛服](servers/54056/)
+> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden] 
+> 死亡不掉落  
+> 有经济系统和商店  
+> 可传送  
+
+#### [JE原版生存互通服(二周目)](servers/25565/)
 > [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden]
+> 基岩版客户端可加入  
 > 死亡掉落  
 > 原版纯净生存  
 > 服内无OP及任何特殊权限玩家
 
-#### [JE空岛服](servers/25566/)
+#### [JE空岛互通服](servers/25566/)
 > [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden]
+> 基岩版客户端可加入  
 > 死亡掉落  
 > 单人岛屿，有范围限制  
 > 可传送(传送扣除经验)  

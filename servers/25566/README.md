@@ -1,3 +1,11 @@
+> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden]
+> 基岩版客户端可加入  
+> 死亡掉落  
+> 单人岛屿，有范围限制  
+> 可传送(传送扣除经验)  
+> 无经济系统  
+> 粘液科技及拓展  
+
 ## 指令
 
 #### 空岛指令
