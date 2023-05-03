@@ -2,7 +2,7 @@
 
 2. 绑定账号
 
-> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden] 群内可发送`/菜单`指令查看服务器机器人功能菜单
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 群内可发送`/菜单`指令查看服务器机器人功能菜单
 
 如果你要进基岩版服务器，在群内发送`/bind 你的ID`，例如`/bind lle1652`  
 如果你要进Java版服务器，在群内发送`/绑定 你的ID
@@ -16,4 +16,4 @@
 
 3. 前往[服务器状态](servers/motd)页面查看地址和端口
 
-> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden] 基岩版直接点击对应服务器旁边的`加入服务器`按钮即可自动添加服务器至你客户端的服务器列表中
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 基岩版直接点击对应服务器旁边的`加入服务器`按钮即可自动添加服务器至你客户端的服务器列表中

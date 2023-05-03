@@ -1,4 +1,4 @@
-> [!TIP|style:flat||labelVisibility:hidden|iconVisibility:hidden]
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 基岩版客户端可加入  
 > 死亡掉落  
 > 单人岛屿，有范围限制  
