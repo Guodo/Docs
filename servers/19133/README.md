@@ -1,4 +1,4 @@
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="//play.pdumc.top:2222/iframe.html?ip=play.pdumc.top&port=19133&dark=false&join_open=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="//play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=19133&dark=false&join_open=true"></iframe>
 
 纯原版生存，让你和你的朋友enjoy一起玩游玩原版生存，感受来自
 原版的魅力！

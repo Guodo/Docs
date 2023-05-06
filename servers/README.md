@@ -1,5 +1,5 @@
 >[!NOTE] 以下简称`BE`为基岩版，`JE`为JAVA版  
-所有服务器地址均为`play.pdumc.top`
+所有服务器地址均为`play.hmmc.top`
 
 #### [BE娱乐服](servers/19132/)
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 菜单内含跨服传送，可跳转至其他子服务器，服内有一些娱乐小游戏
