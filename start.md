@@ -21,3 +21,5 @@
 #### 3. 前往[服务器状态](servers/motd)页面查看服务器版本，地址和端口
 
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 基岩版直接点击对应服务器旁边的`加入服务器`按钮即可自动添加服务器至你客户端的服务器列表中
+
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] Java版服务器需要先进群组服端口，然后在游戏内执行`/server 服务器名`跳转到你要去的服务器，现有原版生存服(/server sc)和粘液科技空岛服(/server kd)
