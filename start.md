@@ -9,8 +9,7 @@
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 群内可发送`/菜单`指令查看服务器机器人功能菜单
 
 如果你要进基岩版服务器，在群内发送`/bind 你的ID`，例如`/bind lle1652`  
-如果你要进Java版服务器，在群内发送`/绑定 你的ID
-`，例如`/绑定 lle1652`
+如果你要进Java版服务器，在群内发送`/绑定 你的ID`，例如`/绑定 lle1652`
 
 !> 如果你要用Java版客户端进入Java版服务器，需要前往[littleskin](https://littleskin.cn)注册并创建角色，然后在群内绑定你创建的角色名
 
@@ -18,8 +17,7 @@
 
 !> 如果你使用基岩版账号绑定Java版服务器，请把名字中的空格替换为英文下划线`_`，基岩版进入Java版服务器按照Java版的方式绑定账号
 
-#### 3. 前往[服务器状态](servers/motd)页面查看服务器版本，地址和端口
+#### 3. 进服
+如果你使用的是基岩版，浏览器访问[服务器状态](servers/motd)页面查看服务器版本，地址和端口，直接点击对应服务器旁边的`加入服务器`按钮即可自动添加服务器至你客户端的服务器列表中
 
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 基岩版直接点击对应服务器旁边的`加入服务器`按钮即可自动添加服务器至你客户端的服务器列表中
-
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] Java版服务器需要先进群组服端口，然后在游戏内执行`/server 服务器名`跳转到你要去的服务器，现有原版生存服(/server sc)和粘液科技空岛服(/server kd)
+如果你使用的是Java版，需要先进群组服大厅`play.pdumc.top:25565`，然后在游戏内执行`/server 服务器名`跳转到你要去的服务器，现有原版生存服(/server sc)和粘液科技空岛服(/server kd)
