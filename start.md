@@ -1,5 +1,5 @@
 > [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
-> 当前基岩版服务器支持基岩版`1.19.7X`版本客户端  
+> 当前基岩版服务器支持基岩版`1.19.8X`版本客户端  
 > 当前Java版互通服支持Java版`1.19.X`版本客户端和基岩版`1.19.40-1.19.81`版本客户端
 
 #### 1. 加入服务器QQ群 ==> [点我进群](https://jq.qq.com/?_wv=1027&k=WwignUAQ)
