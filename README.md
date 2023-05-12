@@ -1,5 +1,5 @@
 ![随机图片](https://api.imlazy.ink/img)
-> [进服流程](start)  
+> [进服流程](start) 手把手教你进服  
 > [服务器公告](notice/) 服务器变动公告  
 > [服务器状态](servers/motd) 查看实时服务器状态  
 > [常见问题](FAQ) 常见问题解答  
