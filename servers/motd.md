@@ -11,6 +11,4 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=54056&dark=false&join_open=true"></iframe>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="//play.hmmc.top:2222/iframe.html?ip=jesc.hmmc.top&port=25565&dark=false"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="//play.hmmc.top:2222/iframe.html?ip=jekd.hmmc.top&port=25565&dark=false"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=25565&dark=false&join_open=true"></iframe>
