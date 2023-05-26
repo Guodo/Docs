@@ -1,4 +1,6 @@
-![随机图片](https://api.imlazy.ink/img)
+#### 我，服主，打钱！
+![恰饭](/imgs/恰饭.jpg)
+
 > [进服流程](start) 手把手教你进服  
 > [服务器公告](notice/) 服务器变动公告  
 > [服务器状态](servers/motd) 查看实时服务器状态  

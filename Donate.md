@@ -1,7 +1,9 @@
 |名字|金额|留言|
 |----|----|----|
-Somaomao|329|价值329元的路由器一个
+Somaomao|618|价值329元的路由器一个
+|||价值289元内存条一根
 yufengoh|100
+wzyEVR|65
 shikong0516|51
 xiaoyunkui991|34
 Kensokio|20
