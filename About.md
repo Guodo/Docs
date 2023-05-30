@@ -5,7 +5,6 @@
 
 ## 恰饭
 ![恰饭](imgs/恰饭.jpg ':size=70%')
-- 支付宝/微信/QQ
 
 ## 捐赠名单
 [filename](Donate.md ':include')
