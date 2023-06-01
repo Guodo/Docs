@@ -36,12 +36,14 @@
 > 死亡掉落  
 > 原版纯净生存  
 > 服内无OP及任何特殊权限玩家  
+> 服内可使用`/server yl`指令切换进娱乐服  
 > 服内可使用`/server cz`指令切换到创造服  
+
 
 #### [JE原版创造互通服/25565](servers/25565/)
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 基岩版客户端可加入  
-> 需要从生存服使用`/server cz`指令切换到创造服  
+> 服内可使用`/server yl`指令切换进娱乐服
 > 服内可使用`/server sc`指令切换到生存服  
 
 #### [JE空岛互通服/25566](servers/25566/)
