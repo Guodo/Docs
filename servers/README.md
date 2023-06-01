@@ -43,7 +43,7 @@
 #### [JE原版创造互通服/25565](servers/25565/)
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 基岩版客户端可加入  
-> 服内可使用`/server yl`指令切换进娱乐服
+> 服内可使用`/server yl`指令切换进娱乐服  
 > 服内可使用`/server sc`指令切换到生存服  
 
 #### [JE空岛互通服/25566](servers/25566/)
