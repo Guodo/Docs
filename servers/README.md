@@ -1,5 +1,8 @@
->[!NOTE] 以下简称`BE`为基岩版，`JE`为JAVA版  
-所有服务器地址均为`play.hmmc.top`
+> [!NOTE|label:提示]
+> 以下简称`BE`为基岩版，`JE`为JAVA版  
+> 所有服务器地址均为`play.hmmc.top`  
+> 基岩版目前服务器支持`1.19.8X`加入服务器
+> 互通服目前支持基岩版`1.19.4X-1.19.8X`加入服务器
 
 #### [暂不开放][BE娱乐服/19132](servers/19132/)
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 菜单内含跨服传送，可跳转至其他子服务器，服内有一些娱乐小游戏
