@@ -2,14 +2,14 @@
 > 基岩版目前服务器支持`1.19.8X`加入服务器
 > 互通服目前支持基岩版`1.19.4X-1.19.8X`加入服务器
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=19132&dark=false&join_open=true"></iframe>
+![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:19132)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=19133&dark=false&join_open=true"></iframe>
+![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:19133)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=19134&dark=false&join_open=true"></iframe>
+![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:19134)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=54056&dark=false&join_open=true"></iframe>
+![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:54056)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=25565&dark=false&join_open=true"></iframe>
+![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:25565)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="510px" height="250px" scrolling=no src="http://play.hmmc.top:2222/iframe.html?ip=play.hmmc.top&port=25566&dark=false&join_open=true"></iframe>
+![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:25566)
