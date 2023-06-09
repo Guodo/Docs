@@ -1,6 +1,6 @@
 > [!NOTE|label:提示]
 > 基岩版目前服务器支持`1.19.8X`加入服务器
-> 互通服目前支持基岩版`1.19.4X-1.19.8X`加入服务器
+> Java版服务器目前支持Java版`1.19-1.20`，基岩版`1.19.8X-1.20`加入服务器
 
 ![图片](https://motdbe.blackbe.work/status_img?host=play.hmmc.top:19132)
 
