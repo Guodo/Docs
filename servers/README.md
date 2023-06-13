@@ -35,6 +35,9 @@
 > 可传送  
 
 #### [JE群组互通服/25565](servers/25565/)
+> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> Java版特供正版验证进服端口:25567
+
 > [!TIP|style:flat|label:群组特性|iconVisibility:hidden]
 > 基岩版客户端可加入  
 > 群组内服务器可使用指令切换连接  
