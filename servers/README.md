@@ -49,17 +49,16 @@
 > 死亡掉落  
 > 原版纯净生存  
 > 服内无OP及任何特殊权限玩家  
-> 服内可使用`/server yl`指令切换进JE娱乐服  
-> 服内可使用`/server cz`指令切换到JE创造服  
+> 服内可使用`/server jx`指令切换进JE极限生存服  
+> 服内可使用`/server cz`指令切换进JE创造服  
 
 > [!TIP|style:flat|label:JE原版创造服|iconVisibility:hidden]
-> 服内可使用`/server yl`指令切换进娱乐服  
-> 服内可使用`/server sc`指令切换到生存服  
+> 服内可使用`/server jx`指令切换进JE极限生存服  
+> 服内可使用`/server sc`指令切换进JE生存服  
 
-> [!TIP|style:flat|label:JE娱乐服|iconVisibility:hidden]
-> 不定期更换娱乐存档，玩家可投稿  
+> [!TIP|style:flat|label:JE极限生存服|iconVisibility:hidden] 
 > 服内可使用`/server sc`指令切换进JE原版生存服  
-> 服内可使用`/server cz`指令切换到JE创造服  
+> 服内可使用`/server cz`指令切换进JE创造服  
 
 #### [JE空岛互通服/25566](servers/25566/)
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
