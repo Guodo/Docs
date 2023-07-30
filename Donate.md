@@ -11,6 +11,7 @@ Bedrock1289|20
 Sulight9309|20
 HGQFSL|18.26
 Somaomao|10
+Symbol Fao|9.18
 Zhaoge Rs|8.88
 Deng Feng 0119|8
 Royyuan1108|7.1
