@@ -18,7 +18,9 @@
 #### BE橘猫空岛服/19135
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 玩家行为记录  
-> 自动备份存档
+> 自动备份存档  
+> 假人  
+> 灵魂出窍  
 
 #### BE空岛服/54056
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
