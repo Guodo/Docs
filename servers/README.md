@@ -2,7 +2,7 @@
 > 以下简称`BE`为基岩版，`JE`为Java版  
 > 所有服务器地址均为`play.hmmc.top`  
 > 基岩版服务器当前支持基岩版`1.20.10-1.20.12`版本客户端  
-> Java版服务器当前支持Java版`1.19-1.20.1`版本客户端和基岩版`1.20.10-1.20.12`版本客户端
+> Java版服务器当前支持Java版`1.20.1`版本客户端和基岩版`1.20.10-1.20.12`版本客户端
 
 #### BE原版生存服(七周目)/19133
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
@@ -55,12 +55,6 @@
 > [!TIP|style:flat|label:JE原版创造服|iconVisibility:hidden]
 > 服务器代号`cz`  
 > 超平坦创造
-
-> [!TIP|style:flat|label:JE极限生存服|iconVisibility:hidden] 
-> 服务器代号`jx`  
-> 一条命原版极限生存  
-> 玩家行为记录  
-> 自动备份存档
 
 #### JE模组服/25566
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
