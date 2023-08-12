@@ -53,6 +53,7 @@
 > 自动备份存档
 
 > [!TIP|style:flat|label:JE原版创造服|iconVisibility:hidden]
+> [说明文档](https://github.com/jsorrell/CarpetSkyAdditions/blob/main/docs/zh_cn/README.md)  
 > 服务器代号`kd`  
 > 存档种子`2023081223`  
 > 死亡掉落  
