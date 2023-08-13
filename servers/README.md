@@ -56,7 +56,7 @@
 > 说明文档 [前往](https://github.com/jsorrell/CarpetSkyAdditions/blob/main/docs/zh_cn/README.md)  
 > 服务器代号`kd`  
 > 存档种子`2023081223`  
-> 李芒果空岛金合欢开局玩法
+> 李芒果空岛金合欢开局玩法  
 > 死亡掉落  
 > 普通玩家可用假人
 
