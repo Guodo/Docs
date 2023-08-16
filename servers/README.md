@@ -15,6 +15,19 @@
 > 玩家行为记录  
 > 自动备份存档
 
+#### BE插件生存服/22222
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> 死亡掉落  
+> 反作弊  
+> 自动备份存档  
+> 领地  
+> 玩家传送  
+> 商店  
+> 经济系统  
+> PVP开关  
+> 排行榜  
+> 个人数据统计  
+
 #### BE橘猫空岛服/19135
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 玩家行为记录  
