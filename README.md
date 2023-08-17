@@ -1,6 +1,6 @@
 > [服务器简介](/servers/) 各个子服的简单介绍  
 > [进服流程](start) 手把手教你进服  
-> [服务器公告](notice/) 服务器变动公告  
+> [服务器公告](notice/2023) 服务器变动公告  
 > [服务器状态](servers/motd) 查看实时服务器状态  
 > [常见问题](FAQ) 常见问题解答  
 > 基岩版客户端下载 [苦力怕论坛](http://mcapks.net/)/[MineBBS](https://mc.minebbs.com/#/)

@@ -1,5 +1,7 @@
 - [首页](README.md)
-- [公告](notice/)
+-公告
+  - [2023](notice/2023)
+  - [2022](notice/2022)
 - [进服流程](start)
 - 服务器
   - [服务器简介](servers/)
