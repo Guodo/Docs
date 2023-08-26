@@ -76,18 +76,3 @@
 > [!TIP|style:flat|label:JE原版创造服|iconVisibility:hidden]
 > 服务器代号`cz`  
 > 超平坦创造
-
-#### JE模组服/25566
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
-服务端需要使用`Forge1.16.5`版本加入，必装模组请前往群文件或[仓库](https://gitee.com/HMMCDEV/hm_modserver_mods/releases)下载
-
-> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-> 玩家死亡生成尸体，物品保存在尸体里不会消失，尸体会漂浮在水面或岩浆表面，不会掉在虚空，尸体无碰撞箱
-
-> [!TIP|style:flat|label:现有模组|iconVisibility:hidden]
-> 机械动力  
-> 匠魂  
-> 农夫乐事  
-> 更好的下界  
-> 更好的末地  
-> 死亡尸体
