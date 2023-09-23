@@ -2,7 +2,7 @@
 > 以下简称`BE`为基岩版，`JE`为Java版  
 > 所有服务器地址均为`play.hmmc.top`  
 > 基岩版服务器当前支持基岩版`1.20.10-1.20.15`版本客户端  
-> Java版服务器当前支持Java版`1.20.1`版本客户端和基岩版`1.20.10-1.20.15`版本客户端
+> Java版服务器当前支持Java版`1.20.1`版本客户端和基岩版`1.20.10-1.20.30`版本客户端
 
 #### BE原版生存服(七周目)/19133
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]

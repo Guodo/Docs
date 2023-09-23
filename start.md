@@ -1,6 +1,6 @@
 > [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
 > 基岩版服务器当前支持基岩版`1.20.10-1.20.15`版本客户端  
-> Java版服务器当前支持Java版`1.19-1.20.1`版本客户端和基岩版`1.20.10-1.20.15`版本客户端
+> Java版服务器当前支持Java版`1.19-1.20.1`版本客户端和基岩版`1.20.10-1.20.30`版本客户端
 
 #### 1. 加入服务器QQ群
 [点我进群](https://jq.qq.com/?_wv=1027&k=WwignUAQ)或搜索群号`782787219`
