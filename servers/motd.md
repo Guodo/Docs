@@ -1,6 +1,9 @@
 > [!NOTE|label:提示]
 > 基岩版目前服务器支持`1.20.10-1.20.15`版本加入服务器
 > Java版服务器目前支持Java版`1.20.1`，基岩版`1.20.10-1.20.30`加入服务器
+
+#### BE原版生存体验服
+![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19132)
 #### BE原版生存服
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19133)
 #### BE插件生存服
