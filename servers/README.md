@@ -16,6 +16,9 @@
 > 行为记录  
 
 #### BE原版生存服(七周目)/19133
+> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> 注意：此服务器版本为基岩版`1.20.30`  
+
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 原版纯净生存  
 > 死亡掉落  
