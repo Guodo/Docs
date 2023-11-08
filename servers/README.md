@@ -55,8 +55,7 @@
 > 基岩版客户端可加入  
 > 群组内服务器可使用指令切换连接  
 > 首次进入群组默认加入JE原版生存服  
-> 群组服内数据不互通  
-> 记录玩家退出的服务器，下次登录会自动连接  
+> 群组服内数据不互通   
 > 群组内可使用`/server <服务器代号>`指令切换进对应服务器
 
 > [!TIP|style:flat|label:JE原版生存服|iconVisibility:hidden]
@@ -71,4 +70,10 @@
 
 > [!TIP|style:flat|label:JE原版创造服|iconVisibility:hidden]
 > 服务器代号`cz`  
-> 超平坦创造
+> 超平坦创造  
+
+> [!TIP|style:flat|label:JE竹子空岛服|iconVisibility:hidden]
+> 服务器代号`kd`  
+> 存档种子`20231107`  
+> 李芒果空岛竹子开局  
+> 完整结构和群系  
