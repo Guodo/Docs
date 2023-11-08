@@ -5,9 +5,6 @@
 > Java版服务器当前支持Java版`1.20.1`版本客户端和基岩版`1.20.X-1.20.3X`版本客户端
 
 #### BE原版生存体验服/19132
-> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-> 注意：此服务器版本为基岩版`1.20.30`
-
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 原版纯净生存  
 > 实验性玩法  
@@ -16,9 +13,6 @@
 > 行为记录  
 
 #### BE原版生存服(七周目)/19133
-> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-> 注意：此服务器版本为基岩版`1.20.30`  
-
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 原版纯净生存  
 > 死亡掉落  
@@ -48,14 +42,10 @@
 > 自动备份存档
 
 #### JE群组互通/25565
-> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-> Java版特供正版验证进服端口:25567
-
 > [!TIP|style:flat|label:群组特性|iconVisibility:hidden]
-> 基岩版客户端可加入  
-> 群组内服务器可使用指令切换连接  
-> 首次进入群组默认加入JE原版生存服  
-> 群组服内数据不互通   
+> 基岩版客户端可加入服务器游玩  
+> 群组内服务器可使用指令切换服务器连接  
+> 群组内服务器数据不互通   
 > 群组内可使用`/server <服务器代号>`指令切换进对应服务器
 
 > [!TIP|style:flat|label:JE原版生存服|iconVisibility:hidden]
