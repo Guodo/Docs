@@ -6,5 +6,6 @@
 
 [加入群聊](https://jq.qq.com/?_wv=1027&k=WwignUAQ)
 [查看文档](README.md)
+[绘梦云盘](https://pan.hmmc.top)
 
 ![](./imgs/background.jpg)
