@@ -14,6 +14,6 @@ unbind
 不绑定名字无法进入服务器
 
 服务器文档:
-http://hmmc.top
+https://docs.hmmc.top
 备用文档:
 https://hmmcdev.gitee.io/
