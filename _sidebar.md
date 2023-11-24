@@ -2,8 +2,8 @@
 -公告
   - [2023](notice/2023)
   - [2022](notice/2022)
-- [进服流程](start)
 - 服务器
+  - [进服流程](start)
   - [服务器简介](servers/)
   - [服务器状态](servers/motd)
   - [服务器黑名单](servers/banlist)
