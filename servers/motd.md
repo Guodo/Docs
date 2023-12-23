@@ -13,5 +13,9 @@
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19135)
 #### BE空岛生存服
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:54056)
-#### JE原版生存群组
+#### JE原版生存服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25565)
+#### JE原版创造服
+![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25566)
+#### JE竹子空岛服
+![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25567)
