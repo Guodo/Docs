@@ -1,16 +1,14 @@
 > [!NOTE|label:提示]
 > 以下简称`BE`为基岩版，`JE`为Java版  
 > 所有服务器地址均为`hmmc.top`  
-> 基岩版服务器当前支持基岩版`1.20.3X`版本客户端  
+> 基岩版服务器(除抢先服)当前支持基岩版`1.20.3X`版本客户端  
 > Java版服务器当前支持Java版`1.20.2`版本客户端和基岩版`1.20.3X`版本客户端
 
-#### BE原版生存体验服/19132
+#### BE原版抢先服/19132
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> 同步官方最新版本  
 > 原版纯净生存  
-> 实验性玩法  
-> 死亡掉落  
-> 自动备份  
-> 行为记录  
+> 死亡掉落
 
 #### BE原版生存服(七周目)/19133
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
