@@ -60,7 +60,7 @@
 
 #### JE竹子空岛服/25567
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]  
-> JE1.20.1/BE1.20.3X  
+> JE1.20.1  
 > 存档种子`20231107`  
 > 李芒果空岛竹子开局  
 > 完整结构和群系  
