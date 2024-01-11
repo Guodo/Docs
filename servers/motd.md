@@ -1,6 +1,5 @@
 > [!NOTE|label:提示]
-> 基岩版目前服务器(除抢先服)支持`1.20.3X`版本加入服务器  
-> Java版服务器目前支持Java版`1.20.1`，基岩版`1.20.X-1.20.3X`加入服务器
+> 服务端具体支持版本详见[服务器简介](servers/)
 
 #### BE原版抢先服
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19132)
@@ -19,3 +18,5 @@
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25566)
 #### JE竹子空岛服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25567)
+#### JE粘液科技空岛服
+![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25568)

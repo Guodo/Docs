@@ -1,17 +1,17 @@
 > [!NOTE|label:提示]
 > 以下简称`BE`为基岩版，`JE`为Java版  
 > 所有服务器地址均为`hmmc.top`  
-> 基岩版服务器(除抢先服)当前支持基岩版`1.20.3X`版本客户端  
-> Java版服务器当前支持Java版`1.20.2`版本客户端和基岩版`1.20.3X`版本客户端
 
 #### BE原版抢先服/19132
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> BE1.20.5X  
 > 同步官方最新版本  
 > 原版纯净生存  
 > 死亡掉落
 
 #### BE原版生存服(七周目)/19133
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> BE1.20.3X/BE1.20.4X  
 > 原版纯净生存  
 > 死亡掉落  
 > 反作弊  
@@ -26,6 +26,7 @@
 
 #### BE橘猫空岛服/19135
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
+> BE1.20.3X/BE1.20.4X  
 > 玩家行为记录  
 > 自动备份存档  
 > 假人  
@@ -33,6 +34,7 @@
 
 #### BE空岛服/54056
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
+> BE1.20.3X/BE1.20.4X  
 > 死亡不掉落  
 > 有经济系统和商店  
 > 可传送  
@@ -41,6 +43,7 @@
 
 #### JE原版生存服/25565
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
+> JE1.20.2/BE1.20.3X  
 > 服务器代号`sc`  
 > 存档种子`21235395903366742`  
 > 死亡掉落  
@@ -52,10 +55,18 @@
 
 #### JE原版创造服/25566
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]  
+> JE1.20.2/BE1.20.X-BE1.20.5X  
 > 创造  
 
 #### JE竹子空岛服/25567
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]  
+> JE1.20.1/BE1.20.3X  
 > 存档种子`20231107`  
 > 李芒果空岛竹子开局  
 > 完整结构和群系  
+
+#### JE粘液科技空岛服/25568
+> JE1.20.1/BE1.20.4X/BE1.20.5X  
+> 粘液科技  
+> 插件空岛  
+> 玩家传送  
