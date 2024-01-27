@@ -1,6 +1,6 @@
 > [!NOTE|label:提示]
 > 以下简称`BE`为基岩版，`JE`为Java版  
-> 所有服务器地址均为`hmmc.top`  
+> 如无特殊说明，所有服务器地址均为`hmmc.top`  
 
 #### BE原版生存服(七周目)/19133
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
@@ -19,15 +19,15 @@
 
 #### BE橘猫空岛服/19135
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-> BE1.20.3X/BE1.20.4X  
+> BE1.20.3X-BE1.20.5X  
 > 玩家行为记录  
 > 自动备份存档  
 > 假人  
 > 灵魂出窍  
 
-#### BE空岛服/54056
+#### BE插件空岛服/54056
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
-> BE1.20.3X/BE1.20.4X  
+> BE1.20.3X-BE1.20.5X  
 > 死亡不掉落  
 > 有经济系统和商店  
 > 可传送  
@@ -36,7 +36,7 @@
 
 #### JE原版生存服/25565
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
-> JE1.20.2/BE1.20.3X  
+> JE1.20.2/BE1.20.X-BE1.20.5X  
 > 服务器代号`sc`  
 > 存档种子`21235395903366742`  
 > 死亡掉落  
@@ -51,15 +51,8 @@
 > JE1.20.2/BE1.20.X-BE1.20.5X  
 > 创造  
 
-#### JE竹子空岛服/25567
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]  
-> JE1.20.1  
-> 存档种子`20231107`  
-> 李芒果空岛竹子开局  
-> 完整结构和群系  
-
 #### JE粘液科技空岛服/25568
-> JE1.20.1/BE1.20.4X/BE1.20.5X  
+> JE1.20.1/BE1.20.4X-BE1.20.5X  
 > 粘液科技  
 > 插件空岛  
 > 玩家传送  
