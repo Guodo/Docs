@@ -25,17 +25,8 @@
 > 假人  
 > 灵魂出窍  
 
-#### BE插件空岛服/54056
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
-> BE1.20.3X-BE1.20.5X  
-> 死亡不掉落  
-> 有经济系统和商店  
-> 可传送  
-> 玩家行为记录  
-> 自动备份存档
-
 #### JE原版生存服/25565
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > JE1.20.2/BE1.20.X-BE1.20.5X  
 > 服务器代号`sc`  
 > 存档种子`21235395903366742`  
@@ -44,14 +35,15 @@
 > 玩家行为记录  
 > 服内无OP及任何特殊权限玩家  
 > 玩家行为记录  
-> 自动备份存档
+> 自动备份存档  
 
 #### JE原版创造服/25566
-> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]  
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > JE1.20.2/BE1.20.X-BE1.20.5X  
 > 创造  
 
 #### JE粘液科技空岛服/25568
+> [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > JE1.20.1/BE1.20.4X-BE1.20.5X  
 > 粘液科技  
 > 插件空岛  

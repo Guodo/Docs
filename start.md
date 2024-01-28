@@ -1,17 +1,12 @@
-> [!NOTE|style:flat|labelVisibility:hidden|iconVisibility:hidden] 
-> 基岩版服务器当前支持基岩版`1.20.3X`版本客户端  
-> Java版服务器当前支持Java版`1.20.2`版本客户端和基岩版`1.20.3X`版本客户端
-
-#### 1. 加入服务器QQ群或QQ频道
+#### 1. 加入绘梦我的世界群聊
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-[点我加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=3yiAhKf24AT-jGw9bAa7wHKJr-5vrke5&authKey=0wjbWR58f4vWcXCxfw26a%2FQJJGqmCLTYB2TZq1UtLArXtssnklD%2Fc1ftd2F9JCRT&noverify=0&group_code=782787219)  
-[点我加入QQ频道](https://pd.qq.com/s/azwsi6nic)
+> [点我跳转](group)  
 
-#### 2. 绑定账号
+#### 2. 联系群主或管理员添加白名单
 
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-提供游戏ID给管理员并等候管理员添加白名单
+提供游戏ID和账号类型(JE/BE)给群主或管理员并耐心等待添加白名单  
 
 #### 3. 进服
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
-前往[服务器简介](servers/)页面查看服务器说明和端口
+前往[服务器简介](servers/)页面查看服务器版本、地址和端口
