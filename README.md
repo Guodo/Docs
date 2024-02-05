@@ -3,8 +3,6 @@
 > [服务器公告](notice/2024) 服务器变动公告  
 > [服务器状态](servers/motd) 查看实时服务器状态  
 > [常见问题](FAQ) 常见问题解答  
-> 基岩版客户端下载 [苦力怕论坛](http://mcapks.net/)/[MineBBS](https://mc.minebbs.com/#/)  
-> [Minecraft中文WIKI](https://zh.minecraft.wiki/)
 
 #### 我，服主，打钱！
 ![恰饭](imgs/恰饭.jpg ':size=60%')

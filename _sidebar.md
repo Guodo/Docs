@@ -1,5 +1,4 @@
 - [首页](README.md)
-- [加入群聊](group)
 - 公告
   - [2024](notice/2024)
   - [2023](notice/2023)
@@ -10,7 +9,14 @@
   - [服务器状态](servers/motd)
   - [服务器黑名单](servers/banlist)
   - [服务器记过名单](servers/marklist)
+- 客户端下载
+  - [苦力怕论坛](http://mcapks.net/)
+  - [MineBBS](https://mc.minebbs.com/#/)  
+- Minecraft中文WIKI
+  - [查看](https://zh.minecraft.wiki/)
+
 - [关于绘梦](About)
+  - [加入群聊](group)
   - [常见问题](FAQ)
   - [文档编写](About?id=文档编写)
   - [恰饭](About?id=恰饭)

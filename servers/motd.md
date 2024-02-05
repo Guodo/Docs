@@ -5,9 +5,9 @@
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19133)
 #### BE橘猫空岛服
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19135)
-#### JE原版生存服
+#### 原版生存互通服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25565)
-#### JE原版创造服
+#### 创造互通服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25566)
-#### JE粘液科技空岛服
+#### 粘液科技空岛互通服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25568)
