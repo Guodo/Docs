@@ -6,9 +6,9 @@ yufengoh|115
 wzyEVR|65
 shikong0516|51
 Bedrock1289|45
-xiaoyunkui991|34
+xiaoyunkui991|
+Sulight9309|30
 Kensokio|20
-Sulight9309|20
 HGQFSL|18.26
 Somaomao|10
 Symbol Fao|9.18
