@@ -41,7 +41,7 @@
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 端口`25568`  
 > 支持版本`JE1.20.1/BE1.20.4X-BE1.20.5X`  
-> 粘液科技  
-> 插件空岛  
-> 玩家传送  
+> 粘液科技指南书获取指令`/sf guide`  
+> 空岛指令`/is`  
+> 玩家传送`/tpa`  
 > 领取礼包指令`/wk mail`  
