@@ -3,8 +3,8 @@
 
 #### BE原版生存服
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19133)
-#### BE橘猫空岛服
-![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19135)
+#### BE空岛服
+> 新服筹备中  
 #### 原版生存互通服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25565)
 #### 创造互通服
