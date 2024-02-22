@@ -18,8 +18,9 @@
 ### JE原版生存服
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 基岩版互通  
+> Java版版本兼容  
 > 端口`25566`  
-> 支持版本`JE1.20.2/BE1.20.X-BE1.20.5X`  
+> 支持版本`JE1.19+/BE1.20.4X-BE1.20.6X`  
 > 存档种子`21235395903366742`  
 > 死亡掉落  
 > 原版纯净生存  
@@ -37,6 +38,7 @@
 ### JE粘液科技空岛服
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 基岩版互通  
+> Java版版本兼容  
 > 端口`25568`  
 > 支持版本`JE1.20.1/BE1.20.4X-BE1.20.5X`  
 > 原版特性  
