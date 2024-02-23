@@ -5,7 +5,7 @@
 ### BE原版生存服(七周目)
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 端口`19133`  
-> 支持版本`BE1.20.5X`  
+> 支持版本`BE1.20.6X`  
 > 原版纯净生存  
 > 死亡掉落  
 > 反作弊  
@@ -32,7 +32,7 @@
 > [!TIP|style:flat|labelVisibility:hidden|iconVisibility:hidden]
 > 基岩版互通  
 > 端口`JE25565/BE19132`  
-> 支持版本`JE1.20.2/BE1.20.X-BE1.20.5X`  
+> 支持版本`JE1.19+/BE1.20.4X-BE1.20.6X`  
 > 创造  
 
 ### JE粘液科技空岛服
@@ -40,7 +40,7 @@
 > 基岩版互通  
 > Java版版本兼容  
 > 端口`25568`  
-> 支持版本`JE1.20.1/BE1.20.4X-BE1.20.5X`  
+> 支持版本`JE1.19+/BE1.20.4X-BE1.20.6X`  
 > 原版特性  
 > 粘液科技指南书获取指令`/sf guide`  
 > 空岛指令`/is`  
