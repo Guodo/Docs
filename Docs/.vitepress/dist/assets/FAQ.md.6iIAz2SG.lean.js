@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.B8vMtoc2.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"FAQ.md","filePath":"FAQ.md","lastUpdated":null}'),r={name:"FAQ.md"},l=o("",8),c=[l];function n(i,s,d,_,h,u){return t(),e("div",null,c)}const q=a(r,[["render",n]]);export{b as __pageData,q as default};
