@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.JVJExM9n.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"group.md","filePath":"group.md","lastUpdated":null}'),o={name:"group.md"},l=r("",1),i=[l];function n(_,c,s,d,p,u){return t(),e("div",null,i)}const f=a(o,[["render",n]]);export{m as __pageData,f as default};

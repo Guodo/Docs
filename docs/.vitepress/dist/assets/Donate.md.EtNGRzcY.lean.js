@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as r,a4 as a}from"./chunks/framework.JVJExM9n.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Donate.md","filePath":"Donate.md","lastUpdated":null}'),e={name:"Donate.md"},o=a("",1),n=[o];function s(i,_,l,h,c,m){return r(),d("div",null,n)}const p=t(e,[["render",s]]);export{y as __pageData,p as default};
