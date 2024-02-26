@@ -15,4 +15,6 @@ features:
   - title: 服主
   - title: 打钱
 ---
-![恰饭](/imgs/恰饭.jpg)
+<center>
+<img src=/imgs/恰饭.jpg width=70% />
+</center>
