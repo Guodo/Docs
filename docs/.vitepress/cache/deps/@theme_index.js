@@ -9,32 +9,32 @@ import {
 } from "./chunk-G7P6XGB7.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/base.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
-import "E:/test/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "E:/test/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import { default as default3 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
-import { default as default4 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
-import { default as default5 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default6 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default7 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default8 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default9 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
-import { default as default10 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default11 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
-import { default as default12 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default13 } from "E:/test/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
+import "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
+import VPBadge from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import Layout from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/Layout.vue";
+import { default as default2 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import { default as default3 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
+import { default as default4 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
+import { default as default5 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
+import { default as default6 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
+import { default as default7 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
+import { default as default8 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
+import { default as default9 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
+import { default as default10 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
+import { default as default11 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
+import { default as default12 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
+import { default as default13 } from "/data/data/com.termux/files/home/HMMCDEV/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
 
 // node_modules/vitepress/dist/client/shared.js
 var inBrowser = typeof document !== "undefined";

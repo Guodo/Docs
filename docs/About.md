@@ -8,7 +8,7 @@ prev: false
 - lao liu03399
 
 #### 恰饭
-<img src=/imgs/恰饭.jpg width=70% />
+<img src=/恰饭.jpg width=70% />
 
 #### 捐赠名单
 <!--@include: Donate.md-->
