@@ -13,6 +13,7 @@ Kensokio|20
 HGQFSL|18.26
 lle1652|16.66
 Somaomao|10
+*士|10
 Symbol Fao|9.18
 Zhaoge Rs|8.88
 Deng Feng 0119|8
