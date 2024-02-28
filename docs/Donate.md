@@ -10,6 +10,7 @@ DarkTerran|40
 xiaoyunkui991|34
 Sulight9309|30
 Kensokio|20
+xiao tang1360|20
 HGQFSL|18.26
 lle1652|16.66
 Somaomao|10
