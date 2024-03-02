@@ -50,7 +50,6 @@ export default defineConfig({
           { text: '服务器记过名单', link: '/servers/marklist' }
         ]
       },
-
       {
         text: '相关资源',
         collapsed: true,
