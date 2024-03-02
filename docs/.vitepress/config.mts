@@ -20,10 +20,10 @@ export default defineConfig({
       { text: '加入群聊', link: '/group' }
     ],
     sidebar: [
-          {
+      {
         text: '概述',
         link: '/README.md'
-        },
+      },
       {
         text: '公告',
         collapsed: true,
@@ -85,19 +85,19 @@ export default defineConfig({
       next: '下一页'
     },
     returnToTopLabel: "回到顶部",
-  outline: {
-    label: '页面导航'
-  },
-  lastUpdated: {
-    text: '最后更新于',
-    formatOptions: {
-      dateStyle: 'short',
-      timeStyle: 'medium'
-    }
-  },
-  sidebarMenuLabel: '菜单',
-  darkModeSwitchLabel: '主题',
-  lightModeSwitchTitle: '切换到浅色模式',
-  darkModeSwitchTitle: '切换到深色模式'
+    outline: {
+      label: '页面导航'
+    },
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'medium'
+      }
+    },
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式'
   }
 })
