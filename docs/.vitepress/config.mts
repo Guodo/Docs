@@ -44,7 +44,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '进服流程', link: '/start' },
-          { text: '服务器简介', link: '/servers/README' },
+          { text: '服务器简介', link: '/servers/' },
           { text: '服务器状态', link: '/servers/motd' },
           { text: '服务器黑名单', link: '/servers/banlist' },
           { text: '服务器记过名单', link: '/servers/marklist' }
