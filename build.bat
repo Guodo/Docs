@@ -1,1 +1,1 @@
-cmd /k npm run docs:build
+npm run docs:build
