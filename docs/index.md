@@ -2,7 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: "我，服主，打钱!"
+  name: "饿饿～  饭饭～"
   image:
       src: /恰饭.jpg
       alt: 恰饭
