@@ -51,13 +51,15 @@ export default defineConfig({
         ]
       },
       {
-        text: '相关资源',
+        text: '基岩版客户端下载',
         collapsed: true,
         items: [
-          { text: 'Minecraft中文WIKI', link: 'https://zh.minecraft.wiki/' },
           { text: 'MineBBS', link: 'https://mc.minebbs.com/#/' },
           { text: '苦力怕论坛', link: 'http://mcapks.net' }
         ]
+      },
+      {
+        text: 'Minecraft中文WIKI', link: 'https://zh.minecraft.wiki/'
       },
       {
         text: '关于绘梦',
