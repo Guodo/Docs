@@ -13,4 +13,7 @@ hero:
     - theme: alt
       text: 绘梦云盘
       link: http://hmmc.top:5244
+    - theme: alt
+      text: 爱发电
+      link: https://afdian.net/a/hmmcdev
 ---
