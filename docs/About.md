@@ -10,5 +10,4 @@ prev: false
 # 恰饭
 <img src=/恰饭.jpg width=70% />
 
-# 捐赠名单
 <!--@include: Donate.md-->
