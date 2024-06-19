@@ -17,7 +17,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '加入群聊', link: '/group' }
+      { text: '加入群聊', link: '/group' },
+      { text: '绘梦云盘', link: 'http://pan.hmmc.top/' }
     ],
     sidebar: [
       {
