@@ -2,7 +2,9 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: "饿饿～  饭饭～"
+  name: "绘梦我的世界"
+  text: " "
+  tagline: "饿饿～  饭饭～"
   image:
       src: /恰饭.jpg
       alt: 恰饭

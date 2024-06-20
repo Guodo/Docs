@@ -18,7 +18,13 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '加入群聊', link: '/group' },
-      { text: '绘梦云盘', link: 'http://pan.hmmc.top/' }
+      { text: '绘梦云盘', link: 'http://pan.hmmc.top/' },
+      { text: '基岩版客户端下载',
+        items: [
+          { text: 'MineBBS', link: 'https://mc.minebbs.com/#/' },
+          { text: '苦力怕论坛', link: 'http://mcapks.net' }
+        ]
+      },
     ],
     sidebar: [
       {
