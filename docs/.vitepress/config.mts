@@ -25,6 +25,7 @@ export default defineConfig({
           { text: '苦力怕论坛', link: 'http://mcapks.net' }
         ]
       },
+      { text: '友情链接', link: '/link' }
     ],
     sidebar: [
       {
