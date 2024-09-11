@@ -14,7 +14,7 @@
 | xiao tang1360                    | 20    |
 | HGQFSL                           | 18.26 |
 | lle1652                          | 16.66 |
-|FutileGame61318                  |  15  |
+| FutileGame61318                  | 15    |
 | Somaomao                         | 10    |
 | *士                              | 10    |
 | Symbol Fao                       | 9.18  |

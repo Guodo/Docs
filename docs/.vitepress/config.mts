@@ -19,12 +19,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '加入群聊', link: '/group' },
       { text: '绘梦云盘', link: 'http://pan.hmmc.top/' },
-      { text: '基岩版客户端下载',
-        items: [
-          { text: 'MineBBS', link: 'https://mc.minebbs.com/#/' },
-          { text: '苦力怕论坛', link: 'http://mcapks.net' }
-        ]
-      },
+      { text: 'MC版本库', link: 'https://bbk.endyun.ltd/' },
       { text: '友情链接', link: '/link' }
     ],
     sidebar: [
@@ -58,14 +53,7 @@ export default defineConfig({
           { text: '服务器记过名单', link: '/servers/marklist' }
         ]
       },
-      {
-        text: '基岩版客户端下载',
-        collapsed: true,
-        items: [
-          { text: 'MineBBS', link: 'https://mc.minebbs.com/#/' },
-          { text: '苦力怕论坛', link: 'http://mcapks.net' }
-        ]
-      },
+      { text: 'MC版本库', link: 'https://bbk.endyun.ltd/' },
       {
         text: 'Minecraft中文WIKI', link: 'https://zh.minecraft.wiki/'
       },
@@ -77,10 +65,11 @@ export default defineConfig({
           { text: '加入群聊', link: '/group' },
           { text: '常见问题', link: '/FAQ' }
         ]
-      }
+      },
+      { text: '友情链接', link: '/link' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://gitee.com/HMMCDEV/HMMCDEV' }
+      { icon: 'github', link: 'https://github.com/HMMCDEV/Docs' }
     ],
     footer: {
       message: '绘梦我的世界',

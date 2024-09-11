@@ -7,5 +7,3 @@
 ![图片](https://motdbe.blackbe.work/status_img?host=hmmc.top:19133)
 ## JE原版生存互通服
 ![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25566)
-## JE粘液科技空岛互通服
-![图片](https://motdbe.blackbe.work/status_img/java?host=hmmc.top:25568)
