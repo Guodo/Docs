@@ -18,7 +18,6 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '加入群聊', link: '/group' },
-      { text: '绘梦云盘', link: 'http://pan.hmmc.top/' },
       { text: 'MC版本库', link: 'https://bbk.endyun.ltd/' },
       { text: '友情链接', link: '/link' }
     ],
