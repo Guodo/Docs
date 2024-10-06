@@ -5,13 +5,14 @@
 |                                  |       | 价值289元的物品                         |
 | yufengoh                         | 115   |
 | wzyEVR                           | 65    |
-| Bedrock1289                      | 55    |
+| Bedrock1289                      | 75    |
 | shikong0516                      | 51    |
 | DarkTerran                       | 40    |
 | xiaoyunkui991                    | 34    |
 | Sulight9309                      | 30    |
 | Kensokio                         | 20    |
 | xiao tang1360                    | 20    |
+|HuanMengYa|20|
 | HGQFSL                           | 18.26 |
 | lle1652                          | 16.66 |
 | FutileGame61318                  | 15    |
