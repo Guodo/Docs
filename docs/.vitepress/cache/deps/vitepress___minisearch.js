@@ -357,7 +357,7 @@ var SearchableMap = class _SearchableMap {
    * ```
    *
    * @param key  The key to update
-   * @param defaultValue  A function that creates a new value if the key does not exist
+   * @param initial  A function that creates a new value if the key does not exist
    * @return The existing or new value at the given key
    */
   fetch(key, initial) {
@@ -1152,9 +1152,11 @@ var MiniSearch = class _MiniSearch {
    * external libraries that implement a parser for custom query languages.
    *
    * @param query  Search query
-   * @param options  Search options. Each option, if not given, defaults to the corresponding value of `searchOptions` given to the constructor, or to the library default.
+   * @param searchOptions  Search options. Each option, if not given, defaults to the corresponding value of `searchOptions` given to the constructor, or to the library default.
    */
   search(query, searchOptions = {}) {
+    const { searchOptions: globalSearchOptions } = this._options;
+    const searchOptionsWithDefaults = Object.assign(Object.assign({}, globalSearchOptions), searchOptions);
     const rawResults = this.executeQuery(query, searchOptions);
     const results = [];
     for (const [docId, { score, terms, match }] of rawResults) {
@@ -1167,11 +1169,11 @@ var MiniSearch = class _MiniSearch {
         match
       };
       Object.assign(result, this._storedFields.get(docId));
-      if (searchOptions.filter == null || searchOptions.filter(result)) {
+      if (searchOptionsWithDefaults.filter == null || searchOptionsWithDefaults.filter(result)) {
         results.push(result);
       }
     }
-    if (query === _MiniSearch.wildcard && searchOptions.boostDocument == null && this._options.searchOptions.boostDocument == null) {
+    if (query === _MiniSearch.wildcard && searchOptionsWithDefaults.boostDocument == null) {
       return results;
     }
     results.sort(byScore);
@@ -1448,7 +1450,7 @@ var MiniSearch = class _MiniSearch {
     const { boostDocument, weights, maxFuzzy, bm25: bm25params } = options;
     const { fuzzy: fuzzyWeight, prefix: prefixWeight } = Object.assign(Object.assign({}, defaultSearchOptions.weights), weights);
     const data = this._index.get(query.term);
-    const results = this.termResults(query.term, query.term, 1, data, boosts, boostDocument, bm25params);
+    const results = this.termResults(query.term, query.term, 1, query.termBoost, data, boosts, boostDocument, bm25params);
     let prefixMatches;
     let fuzzyMatches;
     if (query.prefix) {
@@ -1468,7 +1470,7 @@ var MiniSearch = class _MiniSearch {
         }
         fuzzyMatches === null || fuzzyMatches === void 0 ? void 0 : fuzzyMatches.delete(term);
         const weight = prefixWeight * term.length / (term.length + 0.3 * distance);
-        this.termResults(query.term, term, weight, data2, boosts, boostDocument, bm25params, results);
+        this.termResults(query.term, term, weight, query.termBoost, data2, boosts, boostDocument, bm25params, results);
       }
     }
     if (fuzzyMatches) {
@@ -1478,7 +1480,7 @@ var MiniSearch = class _MiniSearch {
           continue;
         }
         const weight = fuzzyWeight * term.length / (term.length + distance);
-        this.termResults(query.term, term, weight, data2, boosts, boostDocument, bm25params, results);
+        this.termResults(query.term, term, weight, query.termBoost, data2, boosts, boostDocument, bm25params, results);
       }
     }
     return results;
@@ -1562,7 +1564,7 @@ var MiniSearch = class _MiniSearch {
   /**
    * @ignore
    */
-  termResults(sourceTerm, derivedTerm, termWeight, fieldTermData, fieldBoosts, boostDocumentFn, bm25params, results = /* @__PURE__ */ new Map()) {
+  termResults(sourceTerm, derivedTerm, termWeight, termBoost, fieldTermData, fieldBoosts, boostDocumentFn, bm25params, results = /* @__PURE__ */ new Map()) {
     if (fieldTermData == null)
       return results;
     for (const field of Object.keys(fieldBoosts)) {
@@ -1585,7 +1587,7 @@ var MiniSearch = class _MiniSearch {
         const termFreq = fieldTermFreqs.get(docId);
         const fieldLength = this._fieldLength.get(docId)[fieldId];
         const rawScore = calcBM25Score(termFreq, matchingFields, this._documentCount, fieldLength, avgFieldLength, bm25params);
-        const weightedScore = termWeight * fieldBoost * docBoost * rawScore;
+        const weightedScore = termWeight * termBoost * fieldBoost * docBoost * rawScore;
         const result = results.get(docId);
         if (result) {
           result.score += weightedScore;
@@ -1766,7 +1768,8 @@ var calcBM25Score = (termFreq, matchingCount, totalCount, fieldLength, avgFieldL
 var termToQuerySpec = (options) => (term, i, terms) => {
   const fuzzy = typeof options.fuzzy === "function" ? options.fuzzy(term, i, terms) : options.fuzzy || false;
   const prefix = typeof options.prefix === "function" ? options.prefix(term, i, terms) : options.prefix === true;
-  return { term, fuzzy, prefix };
+  const termBoost = typeof options.boostTerm === "function" ? options.boostTerm(term, i, terms) : 1;
+  return { term, fuzzy, prefix, termBoost };
 };
 var defaultOptions = {
   idField: "id",
@@ -1829,7 +1832,7 @@ var objectToNumericMapAsync = (object) => __awaiter(void 0, void 0, void 0, func
   return map;
 });
 var wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-var SPACE_OR_PUNCTUATION = /[\n\r\p{Z}\p{P}]/u;
+var SPACE_OR_PUNCTUATION = /[\n\r\p{Z}\p{P}]+/u;
 export {
   MiniSearch as default
 };

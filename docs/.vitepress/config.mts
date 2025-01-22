@@ -29,12 +29,13 @@ export default defineConfig({
       {
         text: '公告',
         collapsed: true,
-        link: '/notice/2024',
+        link: '/notice/2025',
         items: [
           {
             text: '历史公告',
             collapsed: true,
             items: [
+              { text: '2024', link: '/notice/2024' },
               { text: '2023', link: '/notice/2023' },
               { text: '2022', link: '/notice/2022' }
             ]
