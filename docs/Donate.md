@@ -9,12 +9,12 @@
 | shikong0516                      | 51    |
 | DarkTerran                       | 40    |
 | xiaoyunkui991                    | 34    |
-| Sulight9309                      | 30    |
+| Sulight9309                      | 50    |
 | Kensokio                         | 20    |
 | xiao tang1360                    | 20    |
 |HuanMengYa|20|
 | HGQFSL                           | 18.26 |
-| lle1652                          | 16.66 |
+| lle1652                          | 22.54 |
 | FutileGame61318                  | 15    |
 | Somaomao                         | 10    |
 | *士                              | 10    |
